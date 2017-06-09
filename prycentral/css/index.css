@@ -5,7 +5,7 @@ article p {
 
 .img-art-wrap {
 	position: relative;
-	text-align: center; 
+	text-align: center;
 }
 
 
@@ -22,16 +22,16 @@ article p {
 }
 
 .parallax1 {
-	background-image: url("../imagen/sobre_nosotros_1.jpg");
-	margin-top: 42px;
+	background-image: url("../imagen/fondo1.1.jpg");
+	margin-top: 50px;
 }
 
 .parallax2 {
-	background-image: url("../imagen/sobre_nosotros_2.jpg");
+	background-image: url("../imagen/f1.2.jpg");
 }
 
 .parallax3 {
-	background-image: url("../imagen/sobre_nosotros_3.jpg");
+	background-image: url("../imagen/f1.3.jpg");
 }
 
 header{

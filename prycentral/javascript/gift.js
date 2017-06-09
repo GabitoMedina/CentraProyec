@@ -50,25 +50,25 @@ function expandir_img(){
 	img.onclick = function(){
 		var modal = document.getElementById("myModal");
     	modal.style.display = "block";
-    	modalImg.src = this.src; 
+    	modalImg.src = this.src;
     }
 
     img2.onclick = function(){
 		var modal = document.getElementById("myModal");
     	modal.style.display = "block";
-    	modalImg.src = this.src; 
+    	modalImg.src = this.src;
     }
-       
+
     img3.onclick = function(){
 		var modal = document.getElementById("myModal");
     	modal.style.display = "block";
-    	modalImg.src = this.src; 
+    	modalImg.src = this.src;
     }
 
     img4.onclick = function(){
 		var modal = document.getElementById("myModal");
     	modal.style.display = "block";
-    	modalImg.src = this.src; 
+    	modalImg.src = this.src;
     }
 }
 
